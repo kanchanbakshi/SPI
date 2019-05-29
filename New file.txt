@@ -4,3 +4,5 @@ new record from local
 
 Changes from rmote
 
+Added new record for branch testing
+
